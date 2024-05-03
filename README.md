@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📖📖 OpenLeaf (Flutter eBook App) [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
@@ -73,3 +74,7 @@ You can download from the appstore if you use an iPhone, iPad or a Mac with Sili
 <a href="https://github.com/JideGuru/FlutterEbookApp">
         <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JideGuru/FlutterEbookApp&type=Date">
       </a>
+=======
+# Flutter-Ebook
+ A sleek eBook app built with Flutter. Explore a vast library, customize your reading experience, and seamlessly sync across devices. Enjoy offline reading, bookmarking, and discover new reads with curated lists.
+>>>>>>> origin/main
