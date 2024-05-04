@@ -5,6 +5,7 @@ Welcome to FlutterEbook, your Flutter eBook app for exploring and enjoying Publi
 ## App Preview
 
 <img src="assets/images/10.png" alt="Screenshot 1" width="360"/>
+*Caption for Screenshot 2*
 
 ![Screenshot 2](screenshots/screen2.png)
 *Caption for Screenshot 2*
