@@ -4,7 +4,26 @@ Welcome to FlutterEbook, your Flutter eBook app for exploring and enjoying Publi
 
 ## App Preview
 
-![App Preview](R_Airlines.jpg)
+![Screenshot 1](assets/images/10.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screen2.png)
+*Caption for Screenshot 2*
+
+![Screenshot 1](assets/images/10.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screen2.png)
+*Caption for Screenshot 2*
+
+![Screenshot 1](assets/images/10.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screen2.png)
+*Caption for Screenshot 2*
+
+![Screenshot 1](assets/images/10.png)
+*Caption for Screenshot 1*
 
 ## Features 🌟
 
