@@ -3,30 +3,11 @@
 Welcome to FlutterEbook, your Flutter eBook app for exploring and enjoying Public Domain books!
 
 ## App Preview
-
-*Caption for Screenshot 2*
-<img src="assets/images/2.png" alt="Screenshot 1" width="360"/>
-
-*Caption for Screenshot 2*
-<img src="assets/images/4.png" alt="Screenshot 1" width="360"/>
-
-*Caption for Screenshot 2*
-<img src="assets/images/10.png" alt="Screenshot 1" width="360"/>
-
-*Caption for Screenshot 2*
-<img src="assets/images/8.png" alt="Screenshot 1" width="360"/>
-
-*Caption for Screenshot 2*
-<img src="assets/images/10.png" alt="Screenshot 1" width="360"/>
-
-*Caption for Screenshot 2*
-<img src="assets/images/12.png" alt="Screenshot 1" width="360"/>
-
-*Caption for Screenshot 2*
-<img src="assets/images/14.png" alt="Screenshot 1" width="360"/>
-
-*Caption for Screenshot 2*
-<img src="assets/images/15.png" alt="Screenshot 1" width="360"/>
+<p align="center">
+    <img src="assets/images/2.png" alt="Screenshot 1" width="30%">
+    <img src="assets/images/4.png" alt="Screenshot 2" width="30%">
+    <img src="assets/images/10.png" alt="Screenshot 3" width="30%">
+</p>
 
 ## Features 🌟
 
