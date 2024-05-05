@@ -14,6 +14,9 @@ Welcome to FlutterEbook, your Flutter eBook app for exploring and enjoying Publi
     <img src="assets/images/14.png" alt="Screenshot 3" width="30%">
     <img src="assets/images/15.png" alt="Screenshot 3" width="30%">
 </p>
+
+  <img src="assets/images/desktop_1.png" alt="Screenshot 3" width="30%">
+
 ## Features 🌟
 
 - **Discover eBooks:** Explore a wide range of eBooks directly within the app.
