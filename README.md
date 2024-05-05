@@ -6,9 +6,14 @@ Welcome to FlutterEbook, your Flutter eBook app for exploring and enjoying Publi
 <p align="center">
     <img src="assets/images/2.png" alt="Screenshot 1" width="30%">
     <img src="assets/images/4.png" alt="Screenshot 2" width="30%">
-    <img src="assets/images/10.png" alt="Screenshot 3" width="30%">
+    <img src="assets/images/8.png" alt="Screenshot 3" width="30%">
 </p>
-
+<p align="center">
+    <img src="assets/images/10.png" alt="Screenshot 1" width="30%">
+    <img src="assets/images/12.png" alt="Screenshot 2" width="30%">
+    <img src="assets/images/14.png" alt="Screenshot 3" width="30%">
+    <img src="assets/images/15.png" alt="Screenshot 3" width="30%">
+</p>
 ## Features 🌟
 
 - **Discover eBooks:** Explore a wide range of eBooks directly within the app.
