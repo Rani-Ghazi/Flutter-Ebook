@@ -5,7 +5,28 @@ Welcome to FlutterEbook, your Flutter eBook app for exploring and enjoying Publi
 ## App Preview
 
 *Caption for Screenshot 2*
+<img src="assets/images/2.png" alt="Screenshot 1" width="360"/>
+
+*Caption for Screenshot 2*
+<img src="assets/images/4.png" alt="Screenshot 1" width="360"/>
+
+*Caption for Screenshot 2*
 <img src="assets/images/10.png" alt="Screenshot 1" width="360"/>
+
+*Caption for Screenshot 2*
+<img src="assets/images/8.png" alt="Screenshot 1" width="360"/>
+
+*Caption for Screenshot 2*
+<img src="assets/images/10.png" alt="Screenshot 1" width="360"/>
+
+*Caption for Screenshot 2*
+<img src="assets/images/12.png" alt="Screenshot 1" width="360"/>
+
+*Caption for Screenshot 2*
+<img src="assets/images/14.png" alt="Screenshot 1" width="360"/>
+
+*Caption for Screenshot 2*
+<img src="assets/images/15.png" alt="Screenshot 1" width="360"/>
 
 ## Features 🌟
 
